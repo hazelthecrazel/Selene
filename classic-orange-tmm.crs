@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Orange Normal.cur
+
+[Help]
+Path=Orange Help.cur
+
+[AppStarting]
+Path=Orange Working.ani
+
+[Wait]
+Path=Orange Busy.ani
+
+[Crosshair]
+Path=Orange Precision.cur
+
+[IBeam]
+Path=Orange Text.cur
+
+[NWPen]
+Path=Orange Hadnwriting.cur
+
+[No]
+Path=Orange Unavailable.cur
+
+[SizeNS]
+Path=Orange Vertical.cur
+
+[SizeWE]
+Path=Orange Horizontal.cur
+
+[SizeNWSE]
+Path=Orange Diagonal 1.cur
+
+[SizeNESW]
+Path=Orange Diagonal 2.cur
+
+[SizeAll]
+Path=Orange Move.cur
+
+[UpArrow]
+Path=Orange Alternate.cur
+
+[Hand]
+Path=Orange Link.cur
+
